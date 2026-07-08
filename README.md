@@ -424,5 +424,3 @@ docker compose up --build
 ---
 
 ## License
-
-MIT — use freely for learning and experimentation.
